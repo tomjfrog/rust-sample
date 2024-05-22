@@ -1,4 +1,4 @@
-name: Rust & Cargo Build and Deploy for JFrog Quotes Application
+name: Rust & Cargo Quotes Application
 on: workflow_dispatch
 
 env:

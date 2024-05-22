@@ -1,4 +1,4 @@
-name: Rust & Cargo Build and Deploy for Innersource Library
+name: Rust & Cargo Innersource Library
 on: workflow_dispatch
 
 env:
