@@ -28,9 +28,9 @@ dependencies = [
 
 [[package]]
 name = "jfrog_quotes"
-version = "0.1.2"
+version = "0.1.1"
 source = "sparse+https://tomjfrog.jfrog.io/artifactory/api/cargo/innersource-cargo-local/index/"
-checksum = "3ac1fb54ffb78b9a37b3e255236eb978313e0feb7482406b58399345bc6f66e4"
+checksum = "5895bc7b550b976f7c2664e92fca130b380938deed410a498135a018307ec8ef"
 dependencies = [
  "rand",
 ]
