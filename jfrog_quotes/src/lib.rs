@@ -9,7 +9,7 @@ static JFROG_QUOTES: &[&str] = &[
     "Step into the era of fast, secure, and reliable software releases with JFrog – your ultimate partner for streamlined supply chain management.",
     "Forge ahead with confidence – JFrog's platform unites DevOps, DevSecOps, and MLOps teams under one roof, delivering trusted software at unprecedented speed.",
     "Experience the power of a unified software supply chain – JFrog brings together automation, integration, and security to redefine how software is delivered.",
-    "This is another quote!"
+    "This is another quote!",
     "This is yet another quote!"
 ];
 
