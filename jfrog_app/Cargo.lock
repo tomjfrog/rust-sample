@@ -30,7 +30,7 @@ dependencies = [
 name = "jfrog_quotes"
 version = "0.1.2"
 source = "sparse+https://tomjfrog.jfrog.io/artifactory/api/cargo/innersource-cargo-local/index/"
-checksum = "b42ce2dd74a80d0284ab86944f9a460b774180d9a7d2c33020a7f63465591f9d"
+checksum = "3ac1fb54ffb78b9a37b3e255236eb978313e0feb7482406b58399345bc6f66e4"
 dependencies = [
  "rand",
 ]
