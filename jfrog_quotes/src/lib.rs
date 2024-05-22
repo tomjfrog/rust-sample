@@ -10,6 +10,7 @@ static JFROG_QUOTES: &[&str] = &[
     "Forge ahead with confidence – JFrog's platform unites DevOps, DevSecOps, and MLOps teams under one roof, delivering trusted software at unprecedented speed.",
     "Experience the power of a unified software supply chain – JFrog brings together automation, integration, and security to redefine how software is delivered.",
     "This is another quote!"
+    "This is yet another quote!"
 ];
 
 /// Returns a random Yogi Berra quote.
