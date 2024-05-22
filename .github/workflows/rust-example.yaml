@@ -30,4 +30,4 @@ jobs:
 
       - name: Publish Application To Artifactory
         working-directory: jfrog_app
-        run: cargo publish --allow-dirty --token "Bearer ${{ secrets.RUST_EXAMPLE_AUTHENTICATION_TOKEN }}"
+        run: cargo publish --token "Bearer ${{ secrets.RUST_EXAMPLE_AUTHENTICATION_TOKEN }}"
