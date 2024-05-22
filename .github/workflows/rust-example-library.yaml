@@ -29,4 +29,4 @@ jobs:
 
       - name: Publish Library To Artifactory
         working-directory: jfrog_quotes
-        run: cargo publish --token "Bearer ${{ secrets.RUST_EXAMPLE_AUTHENTICATION_TOKEN }}"
+        run: cargo publish --allow-dirty --token "Bearer ${{ secrets.RUST_EXAMPLE_AUTHENTICATION_TOKEN }}"
